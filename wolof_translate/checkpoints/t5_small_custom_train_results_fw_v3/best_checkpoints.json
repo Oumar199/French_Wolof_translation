@@ -1,0 +1,13 @@
+{
+    "metrics": {
+        "train_loss": 0.003311718240206019,
+        "test_loss": 0.5539475262048654,
+        "bleu": 28.528,
+        "gen_len": 8.1575,
+        "current_epoch": 346
+    },
+    "best_performance": {
+        "best_score": 28.528,
+        "best_epoch": 346
+    }
+}
